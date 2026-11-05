@@ -1,5 +1,7 @@
 # Oi, me chamo Kauã Fialho 👋
 
+**🌐 Idioma:** **Português** | [English](https://github.com/kauavfialho/kauavfialho/blob/main/README.en.md)
+
 ## 🙋 Sobre mim
 
 Sou fascinado por TI desde criança e hoje trabalho na área. Gosto de desafios, de desvendar como as coisas funcionam e de resolver problemas.
