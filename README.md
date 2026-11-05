@@ -1,8 +1,10 @@
 # Oi, me chamo Kauã Fialho 👋
 
-Estou criando aplicativos gratuitos e de código aberto para deixar a vida das pessoas mais prática, a começar pelas que estão perto de mim.
+## 🙋 Sobre mim
 
-Nem todo mundo pode pagar por uma ferramenta. Com a ajuda da inteligência artificial, quero transformar boas ideias em aplicativos que qualquer pessoa consiga usar.
+Sou fascinado por TI desde criança e hoje trabalho na área. Gosto de desafios, de desvendar como as coisas funcionam e de resolver problemas.
+
+Nas horas livres, escalo e jogo. 🧗🎮
 
 ## 🚀 O que estou construindo
 
