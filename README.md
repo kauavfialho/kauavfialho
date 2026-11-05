@@ -1,28 +1,28 @@
-# Oi, me chamo Kauã Fialho 👋
+# Hi, my name is Kauã Fialho 👋
 
-**🌐 Idioma:** **Português** | [English](https://github.com/kauavfialho/kauavfialho/blob/main/README.en.md)
+**🌐 Language:** **English** | [Português](https://github.com/kauavfialho/kauavfialho/blob/main/README.pt-BR.md)
 
-## 🙋 Sobre mim
+## 🙋 About me
 
-Sou fascinado por TI desde criança e hoje trabalho na área. Gosto de desafios, de desvendar como as coisas funcionam e de resolver problemas.
+I've been fascinated by IT since I was a kid, and today I work in the field. I enjoy challenges, figuring out how things work and solving problems.
 
-Nas horas livres, escalo e jogo. 🧗🎮
+In my free time, I climb and play games. 🧗🎮
 
-## 🚀 O que estou construindo
+## 🚀 What I'm building
 
-| Projeto | O que faz | Situação |
+| Project | What it does | Status |
 |---|---|---|
-| 🧭 [Vitall Launcher](https://github.com/kauavfialho/vitall-launcher) | Launcher que instala, abre e atualiza todos os meus aplicativos | Disponível |
-| 💰 [Syvo](https://github.com/kauavfialho/syvo) | Organiza o dinheiro, cria metas, ensina a investir e ajuda no imposto de renda | Disponível |
-| 💻 Gestão do computador | Cuida do computador e ajuda a fazer backup | Em obras |
-| 🗓️ Gestão da vida | Organiza rotina, tarefas e objetivos | Em obras |
-| 💪 Dieta e treinos | Acompanha alimentação, academia e treinos | Em obras |
+| 🧭 [Vitall Launcher](https://github.com/kauavfialho/vitall-launcher) | A launcher that installs, opens and updates all my apps | Available |
+| 💰 [Syvo](https://github.com/kauavfialho/syvo) | Organizes your money, sets goals, teaches you to invest and helps with Brazilian income tax | Available |
+| 💻 Computer management | Takes care of your computer and helps with backups | In progress |
+| 🗓️ Life management | Organizes your routine, tasks and goals | In progress |
+| 💪 Diet and workouts | Tracks food, gym sessions and workouts | In progress |
 
-## ⬇️ Quer experimentar?
+## ⬇️ Want to try it?
 
-Baixe o [Vitall Launcher](https://github.com/kauavfialho/vitall-launcher#baixar) e instale tudo por ele. É gratuito.
+Download [Vitall Launcher](https://github.com/kauavfialho/vitall-launcher#download) and install everything from there. It's free. The apps are currently in Portuguese only.
 
-## 🛠️ Com o que trabalho
+## 🛠️ What I work with
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-222?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![C#](https://img.shields.io/badge/C%23-222?style=flat-square)
@@ -34,10 +34,10 @@ Baixe o [Vitall Launcher](https://github.com/kauavfialho/vitall-launcher#baixar)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-222?style=flat-square&logo=githubactions&logoColor=6CB6FF)
 ![Swift](https://img.shields.io/badge/Swift-222?style=flat-square&logo=swift&logoColor=F05138)
 
-**Conheço um pouco:** ![Python](https://img.shields.io/badge/Python-222?style=flat-square&logo=python&logoColor=FFD43B)
+**I know a little:** ![Python](https://img.shields.io/badge/Python-222?style=flat-square&logo=python&logoColor=FFD43B)
 
-## 📚 Quero aprender
+## 📚 What I want to learn
 
-![Redes](https://img.shields.io/badge/Redes-222?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-222?style=flat-square)
 ![COBOL](https://img.shields.io/badge/COBOL-222?style=flat-square)
-![Nuvem](https://img.shields.io/badge/Nuvem-222?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud-222?style=flat-square)
