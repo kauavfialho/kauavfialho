@@ -1,4 +1,4 @@
-# Oi, eu sou o Kauã Fialho 👋
+# Oi, me chamo Kauã Fialho 👋
 
 Estou criando aplicativos gratuitos e de código aberto para deixar a vida das pessoas mais prática, a começar pelas que estão perto de mim.
 
