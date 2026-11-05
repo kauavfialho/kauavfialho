@@ -8,15 +8,15 @@ Nem todo mundo pode pagar por uma ferramenta. Com a ajuda da inteligência artif
 
 | Projeto | O que faz | Situação |
 |---|---|---|
-| 🧭 [Vital Solutions](https://github.com/kauavfialho/vital-solutions) | Launcher que instala, abre e atualiza todos os meus aplicativos | Disponível |
-| 💰 [Syvo](https://github.com/kauavfialho/syvo-solution) | Organiza o dinheiro, cria metas, ensina a investir e ajuda no imposto de renda | Disponível |
+| 🧭 [Vitall Launcher](https://github.com/kauavfialho/vitall-launcher) | Launcher que instala, abre e atualiza todos os meus aplicativos | Disponível |
+| 💰 [Syvo](https://github.com/kauavfialho/syvo) | Organiza o dinheiro, cria metas, ensina a investir e ajuda no imposto de renda | Disponível |
 | 💻 Gestão do computador | Cuida do computador e ajuda a fazer backup | Em obras |
 | 🗓️ Gestão da vida | Organiza rotina, tarefas e objetivos | Em obras |
 | 💪 Dieta e treinos | Acompanha alimentação, academia e treinos | Em obras |
 
 ## ⬇️ Quer experimentar?
 
-Baixe o [Vital Solutions](https://github.com/kauavfialho/vital-solutions#baixar) e instale tudo por ele. É gratuito.
+Baixe o [Vitall Launcher](https://github.com/kauavfialho/vitall-launcher#baixar) e instale tudo por ele. É gratuito.
 
 ## 🛠️ Com o que trabalho
 
