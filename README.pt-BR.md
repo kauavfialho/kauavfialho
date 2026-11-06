@@ -14,7 +14,7 @@ Nas horas livres, escalo e jogo. 🧗🎮
 |---|---|---|
 | 🧭 [Vitall Launcher](https://github.com/kauavfialho/vitall-launcher/blob/main/README.pt-BR.md) | Launcher que instala, abre e atualiza todos os meus aplicativos | Disponível |
 | 💰 [Syvo](https://github.com/kauavfialho/syvo/blob/main/README.pt-BR.md) | Organiza o dinheiro, cria metas, ensina a investir e ajuda no imposto de renda | Disponível |
-| 💻 [Bastion](https://github.com/kauavfialho/bastion) | Cuida do seu PC: saúde, limpeza, ajustes para jogos, periféricos e formatação (Windows) | Disponível |
+| 💻 [Bastion](https://github.com/kauavfialho/bastion/blob/main/README.pt-BR.md) | Cuida do seu PC: saúde, limpeza, ajustes para jogos, periféricos e formatação (Windows) | Disponível |
 | 🗓️ Gestão da vida | Organiza rotina, tarefas e objetivos | Em obras |
 | 💪 Dieta e treinos | Acompanha alimentação, academia e treinos | Em obras |
 
