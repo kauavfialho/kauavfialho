@@ -13,7 +13,7 @@ In my free time, I climb and play games. 🧗🎮
 | Project | What it does | Status |
 |---|---|---|
 | 🧭 [Vitall Launcher](https://github.com/kauavfialho/vitall-launcher) | A launcher that installs, opens and updates all my apps | Available |
-| 💰 [Syvo](https://github.com/kauavfialho/syvo) | Organizes your money, sets goals, teaches you to invest and helps with Brazilian income tax | Available |
+| 💰 [Syvo](https://github.com/kauavfialho/syvo) | Organizes your money, sets goals, teaches you to invest and helps with income tax (Brazil for now, more countries coming) | Available |
 | 💻 [Bastion](https://github.com/kauavfialho/bastion) | Takes care of your PC: health, cleanup, gaming tweaks, peripherals and formatting (Windows) | Available |
 | 🗓️ Life management | Organizes your routine, tasks and goals | In progress |
 | 💪 Diet and workouts | Tracks food, gym sessions and workouts | In progress |
